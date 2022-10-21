@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+osem.seagl.org	TRUE	/	FALSE	1999999999	_osem_session	24407HboZPteUvWxcHHA7vu%2BV28MOsdZVBlbYKJbqO97Dnqdj5xQjpuHFhWXe5S6Y367WDWNfXOaMHLNGIUkf2%2BJarIKFEHdI1FOFfcVZntPAnrpOLS5AhCvNdtg6RpKBAB68j45fIW8mmdZbmWlH4M0jpsAUG4MEWC7CrEjb2dM%2F2OmlJs3FQGt3%2FpYs4Y5qY34BTYGmcucz82bz9sHUsrjovzL0aMs6A6Q3uKZ6KbW6E%2BIsITGMs2nfJ%2BjRF4f5G6U8m7jOyDIDDlnPe%2Bv0QZSMA%2FDg6MvmyB1uCbfvVa%2FkoEsKS58%2FzmtfDLA4lBLMoVc4y0n12u7Mw3JeJ1HrMMDuBisliEKsFlIJipcmwj3o1jMmQ%3D%3D--A5cHVMNnHW2izAm4--h0%2BKrQsMfXIqCYgD69efgw%3D%3D
+osem.seagl.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+
